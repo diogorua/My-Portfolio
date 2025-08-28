@@ -1,6 +1,6 @@
 # My Portfolio
 
-If you want to know more about me, take a look at my [portfolio](https://my-portfolio-gd5pp8otg-diogoruas-projects.vercel.app/). I already have another 2D portfolio. Feel free to check my GitHub and see for yourself.
+If you want to know more about me, take a look at my [portfolio](https://my-portfolio-diogoruas-projects.vercel.app/). I already have another 2D portfolio. Feel free to check my GitHub and see for yourself.
 
 ## ⚙️ Tech Stack
 
@@ -20,3 +20,22 @@ If you want to know more about me, take a look at my [portfolio](https://my-port
 - 📊 **Skills Section** Filterable progress bars and categories with animated width
 - 🖼️ **Projects Section** Display screenshots, tech stacks and Github/demo links
 - 📩 **Get In Touch Section**
+
+
+## 👨🏻‍💻 Clone and Run
+
+```
+git clone https://github.com/diogorua/My-Portfolio.git
+cd My-Portfolio
+npm install
+npm run dev
+```
+
+## ☁️ Deployment
+
+**Deploy on Vercel**
+
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com/)
+3. Import your repository
+4. Click deploy
