@@ -1,12 +1,22 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+If you want to know more about me, take a look at my [portfolio](https://my-portfolio-gd5pp8otg-diogoruas-projects.vercel.app/). I already have another 2D portfolio. Feel free to check my GitHub and see for yourself.
 
-Currently, two official plugins are available:
+## ⚙️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React - Component-based UI development
+- Vite - Fast, next-generation front-end build tool and development server
+- TailwindCSS - Utility-first CSS for styling
+- Lucide Icons - Clean and beautiful icon pack
+- Github & Vercel - Deployment
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚡️ Features
+
+- 🌑 **Light/Dark Mode Toggle** Save theme preference in local storage
+- 💫 **Animated Backgrounds** Stars, meteors, scroll effects and glowing UI elements
+- 📱 **Responsive Navigation Desktop** and mobile menus
+- 👨🏻‍💻 **Hero and About Sections** Showcase who I am
+- 📊 **Skills Section** Filterable progress bars and categories with animated width
+- 🖼️ **Projects Section** Display screenshots, tech stacks and Github/demo links
+- 📩 **Get In Touch Section**
