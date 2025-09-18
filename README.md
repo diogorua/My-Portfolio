@@ -1,6 +1,6 @@
 # My Portfolio
 
-If you want to know more about me, take a look at my [portfolio](https://my-portfolio-diogoruas-projects.vercel.app/). I already have another 2D portfolio. Feel free to check my GitHub and see for yourself.
+If you want to know more about me, take a look at my [portfolio](https://my-portfolio-diogoruas-projects.vercel.app/). Feel free to check my GitHub and see for yourself.
 
 ## ⚙️ Tech Stack
 
