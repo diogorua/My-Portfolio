@@ -12,7 +12,7 @@ export const AboutSection = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold">
-                            Developing my skills in both frontend and backend
+                            Developing my skills in backend
                         </h3>
 
                         <p className="text-muted-foreground">
@@ -47,7 +47,7 @@ export const AboutSection = () => {
                                         Coding
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        My main focus is to improve my skills in both frontend and backend development, in order to know which path I want to follow, so I watch tutorials and build projects. 
+                                        My main focus is to improve my skills in backend development, so I watch tutorials and build projects. 
                                     </p>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@ export const AboutSection = () => {
                                         Learning new Languages
                                     </h4>
                                     <p className="text-muted-foreground">
-                                        Besides my deep interest in coding, I recently discovered that I like learning new languages. Now I'm learning Swedish so "Välkommen till min portfolio!".
+                                        Besides my deep interest in coding, I recently discovered that I like learning new languages.
                                     </p>
                                 </div>
                             </div>

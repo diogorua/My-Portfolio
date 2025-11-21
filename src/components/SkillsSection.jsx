@@ -4,25 +4,25 @@ import { ArrowDown } from "lucide-react";
 
 const skills = [
     // Frontend
-    { name: "HTML/CSS", level: 70, category: "frontend" },
     { name: "JavaScript", level: 40, category: "frontend" },
     { name: "React", level: 40, category: "frontend" },
-    { name: "Tailwind CSS", level: 40, category: "frontend" },
+    { name: "Tailwind CSS", level: 20, category: "frontend" },
 
     // Backend
-    { name: "Node.js", level: 10, category: "backend" },
+    { name: "Node.js", level: 40, category: "backend" },
     { name: "Express", level: 10, category: "backend" },
-    { name: "MongoDB", level: 30, category: "backend" },
+    { name: "MongoDB", level: 20, category: "backend" },
     { name: "Python", level: 50, category: "backend" },
     { name: "Java", level: 50, category: "backend" },
-    { name: "SQL", level: 20, category: "backend" },
+    { name: "SQL", level: 30, category: "backend" },
     { name: "RESTful APIs", level: 10, category: "backend" },
     
     // Tools
-    { name: "Git/GitHub", level: 90, category: "tools" },
+    { name: "Git/GitHub", level: 80, category: "tools" },
     { name: "VS Code", level: 80, category: "tools" },
-    { name: "Vite", level: 30, category: "tools" },
+    { name: "Vite", level: 20, category: "tools" },
     { name: "Postman", level: 20, category: "tools" },
+    { name: "Docker", level: 30, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
